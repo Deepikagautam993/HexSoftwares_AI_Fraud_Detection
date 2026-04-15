@@ -116,6 +116,15 @@ streamlit run app.py
 
 ---
 
+## ▶️ Demo Video
+
+Watch the working demonstration of the AI Fraud Detection System:
+
+🔗 **Demo Video Link:**  
+https://drive.google.com/file/d/1sxe7XIEIBlzyjT1Z7vwcjQuKDAFTwLND/view?usp=sharing
+
+---
+
 ## 👩‍💻 Author
 
 **Deepika Gautam**  
